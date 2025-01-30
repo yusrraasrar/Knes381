@@ -1,5 +1,5 @@
-#this is my new file
-##I'm not sure if I know what im doing
+# this is my new file
+## I'm not sure if I know what im doing
 im just typing to see if this works. 
 **im bolding this**
 --im italicizing this--
