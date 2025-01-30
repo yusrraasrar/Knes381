@@ -2,7 +2,7 @@
 ## I'm not sure if I know what im doing
 im just typing to see if this works. 
 **im bolding this**
--- im italicizing this --
+--im italicizing this--
 - list
 - list
 ** this is a test **
