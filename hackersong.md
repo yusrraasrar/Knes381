@@ -1,10 +1,30 @@
 # I AM A HACKER
 ## a Single by ME
-Growing up I watched mission impossible
-Tom Cruise became my mr possible
-he flew helicopters
-and guess what
-now i wannna follow in his footsteppas
-unce unce unce (beat beat beat)
-i am a hackaaa
-i am a supa hackaaa
+
+Growing up, I watched Mission Impossible
+
+Tom Cruise became my Mr. Possible
+
+He hacked the system,
+
+He dodged the law,
+
+He flew helicopters,
+
+And guess what?
+
+Now I’m on the run, in the digital deep,
+
+My Greek Goddess in the clutches of 'em Romans
+
+Cracked the code, now secrets ain't cheap.
+
+Unce unce unce (beat beat beat)
+
+I am a hackaaa,
+
+I am a supa hackaaa—
+
+But now the Claudius II Syndicate...
+
+(Transmission Lost…)
