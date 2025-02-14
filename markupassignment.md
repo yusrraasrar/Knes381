@@ -83,5 +83,6 @@ You enter.....
 
 ## Choose Your Fate
 
-![Mission Accomplished](choosefate.svg)
+$${\color{red}You \space have \space accessed \space the \space manifesto. \space You \space have \space triggered \space the \space red \space alert. \space We \space have \space \space caught \space you \space Al \space Capone. \space CIA \space specialists \space have \space locked \space your \space location \space down. \space Prepare \space for \space infiltration \space (you \space won't \space escape \space us).}$$
 
+$${\color{green}Mission \space Accomplished}$$
