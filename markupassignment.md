@@ -83,9 +83,5 @@ You enter.....
 
 ## Choose Your Fate
 
-<svg width="300" height="50">
-  <text x="10" y="40" font-size="30" fill="green" font-weight="bold">
-    MISSION ACCOMPLISHED
-  </text>
-</svg>
+![Mission Accomplished](choosefate.svg)
 
