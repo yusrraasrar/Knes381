@@ -12,7 +12,7 @@ Follow the outline below to survive this mission.
 1) The Mission: Rogue Agent
 2) Quick: Identify the Suspect
 3) Suspect Details 
-4) Open the BriefCase: Find the Evidence
+4) Open the BriefCase: Find the Stolen Property
 5) Choose Your Fate
   
 </details>
@@ -26,23 +26,49 @@ On February 14<sup>th</sup>, 2025...Valentine's Day, at midnight, a rogue govern
 
 ## Quick: Identify The Suspect
 
-<p align="left">
-  Photo Evidence
-  On the left, is photo evidence captured at midnight of the unidentified rogue agent leaving CIA headquarters, Langley, wearing a t-shirt and pants. The suspect appears to be a 5-foot 11-inch dark-skinned male. The image was captured at the back entrance of Langely 01 BackDoors, a classified and A1 clearance door. 
-  
-  <img  alt="suspect_image evidence_02 14 2025" src="https://github.com/user-attachments/assets/5ad61489-5ff2-4a2b-b7e9-b1c9248de79c" width="450" align="right">
+<table>
+  <tr>
+    <!-- Left Column: Text -->
+    <td style="width: 50%; vertical-align: top; padding-right: 15px;">
+      <p>Photo Evidence</p>
+      <p>
+        On the left, is photo evidence captured at midnight of the unidentified rogue agent leaving CIA headquarters, Langley, wearing a t-shirt and pants. The suspect appears to be a 5-foot 11-inch dark-skinned male. The image was captured at the back entrance of Langely 01 BackDoors, a classified and A1 clearance door.
+      </p>
+    </td>
+    <!-- Right Column: Image -->
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/5ad61489-5ff2-4a2b-b7e9-b1c9248de79c" 
+           alt="suspect_image evidence_02 14 2025" 
+           width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-## Subscript & Superscript
+## Suspect Details
 
-SUBSCRIPT SUPERSCRIPT TYPE UP
+Name: Saint Valentino Al Capone
+
+Age: 96 years old
+- Believed to take longevity supplements supplied by Cupid's Pharamaceuticals, based out of Japan, using Turritopsis Dohrnii (immortal jellyfish) blood.
+
+<p>Date of Birth: February 14<sup>th</sup>, 1929</p>
+
+Affiliations: The Claudius II Syndicate 
+- Founded in support of the actions of Emporer Claudius II in 268 AD; allegedly funded through Cupid's Pharmaceuticals.
+- Connections to longevity, Valentine's Day and the posed cybersecurity threat.
+
+Working Theory: Hostage Situation 
+- Al Capone's girlfriend, Aprohidite, was allegedly kidnapped by The Claudius II Syndicate in Japan during her biochemistry post-doc placement at Cupid's Pharmaceuticals.
+- Al Capone was threatened to steal hackersong.md in the promise of Aprohidite's safe return
 
 ---
 
-## Hyperlink
+## Open the Briefcase: Find the Stolen Property
 
-Click [here](readme.md) to go to the other doc.
+Click [here](hackersong.md) to go to the other doc.
 
 ---
 
