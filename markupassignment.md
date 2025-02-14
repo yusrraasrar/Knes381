@@ -68,7 +68,16 @@ Working Theory: Hostage Situation
 
 ## Open the Briefcase: Find the Stolen Property
 
-Click [here](hackersong.md) to go to the other doc.
+You have entered into the deep ends of the black web, made it into the secret backdoor room where Al Capone is allegedly meeting with The Claudius II Syndicate's representative. Your IMF agent, Benji Dunn has very masterfully crafted a digital clone of the representative for you to use and gain easy access to the secret backdoor room. 
+
+You enter.....
+
+<!--Centered-->
+<p align="center">🚨<strong>MESSAGE</strong>🚨</p>
+<p align="center"><strong>BEWARE! BELOW IS THE ENCRYPTED FILE</strong></p>
+<p align="center">Click at your own risk.</p>
+<p align="center">
+  <a href="hackersong.md"><strong>Access the Manifesto</strong></a></p>
 
 ---
 
