@@ -81,7 +81,11 @@ You enter.....
 
 ---
 
-## Colored Text (Using HTML)
+## Choose Your Fate
 
-<p style="color:blue;">This text is blue.</p>
-<p style="color:red;">This text is red.</p>
+<svg width="300" height="50">
+  <text x="10" y="40" font-size="30" fill="green" font-weight="bold">
+    MISSION ACCOMPLISHED
+  </text>
+</svg>
+
